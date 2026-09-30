@@ -30,11 +30,6 @@
   color: var(--otds-color-on-reverse);
 }
 
-.button--red {
-  background-color: var(--otds-color-action-sign-up);
-  color: var(--otds-white-100);
-}
-
 .button--transparent-white {
   background-color: var(--otds-bg-on-brand);
   color: var(--otds-color-primary);

@@ -22,7 +22,7 @@ function App() {
             <p className="landing__text-primary">Welcome</p>
           </div>
           <div className="landing__buttons">
-            <Button label="Sign Up" colour="red" size="large" />
+            <Button label="Sign Up" colour="brand" size="large" />
             <Button
               label="SIGN IN"
               colour="transparent-white"
